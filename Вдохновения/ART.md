@@ -1,6 +1,39 @@
+---
 
-|                                           | Комментарий |
-| ----------------------------------------- | ----------- |
-| ![[Pasted image 20250708005341.png\|300]] |             |
-| https://civitai.com/images/57278658       |             |
+excalidraw-plugin: parsed
+tags: [excalidraw]
 
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+## Element Links
+M10rQvti: https://civitai.com/images/57278658
+
+%%
+## Drawing
+```compressed-json
+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=
+```
+%%
