@@ -17,3 +17,6 @@
 | Vagrus                      | Путешествие каравана                                            |
 | Sandwalkers                 | Путешествие каравана                                            |
 
+https://store.steampowered.com/app/1843940/Brigandine_The_Legend_of_Runersia/
+https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/
+https://store.steampowered.com/app/1769830/As_We_Descend/
